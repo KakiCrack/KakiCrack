@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salim</h1>
-<h3 align="center">PASSIONNÉ D'INFORMATIQUE</h3>
+<h3 align="center">BIENVENUE</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
